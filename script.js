@@ -34,10 +34,10 @@ function getGuess(){
 function result(){
 	if(Math.abs(randomnumber-guessnumber) <=5)
 	{
-		document.getElementById('respond').innerText="hot";
+		document.getElementById('respond').innerText="Hot";
 	}
 	else{
-		document.getElementById('respond').innerText="cold";
+		document.getElementById('respond').innerText="Cold";
 	}
 }
 
