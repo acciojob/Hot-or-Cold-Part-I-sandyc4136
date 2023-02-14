@@ -4,7 +4,7 @@ var guessnumber=0;
 
 var body=document.getElementById('body');
 var p1=document.createElement('p');
-p1.textContent="I am learning to generate random number. I will be able to handle randomness in any of my aplications that needs it. Press the button to get a random number."
+p1.textContent="I am learning to generate random number. I will be able to handle randomness in any of my applications that needs it. Press the button to get a random number."
 
 
 var btn=document.createElement('button');
